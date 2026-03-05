@@ -5,3 +5,4 @@ b = np.array([3,4])
 c =  a * b
 
 print(c)
+print(np.sum(c))
